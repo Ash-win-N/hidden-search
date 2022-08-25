@@ -1,7 +1,7 @@
 <h1 align="center">SearchBar<br>
 <br>
 <p align="center">
-For Live preview: <a href="https://ash-win-n.github.io/daddy-jokes/">SearchBar<p><br>
+For Live preview: <a href="https://ash-win-n.github.io/hidden-search/">SearchBar<p><br>
 
 <p align="center">
 
